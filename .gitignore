@@ -1,0 +1,9 @@
+nginx/certs/*
+nginx/conf.d/*
+nginx/html/*
+nginx/vhost.d/*
+
+!nginx/certs/.gitkeep
+!nginx/conf.d/.gitkeep
+!nginx/html/.gitkeep
+!nginx/vhost.d/.gitkeep
